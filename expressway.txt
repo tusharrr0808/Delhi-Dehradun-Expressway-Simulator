@@ -1,3 +1,0 @@
-Delhi Meerut 70 60 150
-Meerut Dehradun 180 180 350
-Delhi Dehradun 250 240 500
