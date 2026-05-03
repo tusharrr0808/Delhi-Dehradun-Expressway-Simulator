@@ -1,6 +1,4 @@
 # Delhi-Dehradun-Expressway-Simulator
-
-# Delhi-Dehradun-Expressway-Simulator
 🛣️ **Smart Expressway Simulation System**
 
 📌 **Overview**
